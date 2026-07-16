@@ -1,0 +1,725 @@
+{
+  "commit": "cde9cf38070e5ee5a4916fbeaa3ef742fcbe7eaa",
+  "tags": [
+    "v0.2.1",
+    "v0.2.2",
+    "v0.2.3",
+    "v0.2.4",
+    "v0.3.0",
+    "v0.3.1",
+    "v0.3.2",
+    "v0.3.3",
+    "v0.3.4",
+    "v0.3.5",
+    "v0.3.6",
+    "v0.3.7",
+    "v0.3.8"
+  ],
+  "release_count": 13,
+  "asset_count": 117,
+  "asset_bytes": 7447271431,
+  "assets": [
+    {
+      "digest": "sha256:4bf1d1d14b8feb1d4571246eff6b6c65921604fe86cdef9d7cb4c5004f8466e7",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:e950df9ce1dd65ad55862e4f7bcdd906e65950084beacedd731985b66127845a",
+      "name": "myMPYR-0.2.1-arm64-mac.zip",
+      "size": 109004672,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:7441eff3d681ecb2eb515c1215c788d0ce3f8e4401336cccf8931ad2ed9fbaec",
+      "name": "myMPYR-0.2.1-arm64-mac.zip.blockmap",
+      "size": 111075,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:971d84be3ec663548b853c2df23a4264c5899130004d2ee0221624c9a69683b2",
+      "name": "myMPYR-0.2.1-arm64.dmg",
+      "size": 113397155,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:9f676a9832ba08316f4b559ce39fbc24ed2da5142a7e5b2560ba3292258c19ba",
+      "name": "myMPYR-0.2.1-arm64.dmg.blockmap",
+      "size": 119467,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:8c92164ebc3bc50c9a2e6b2294f9860a834d38a96ed8301710e96bf308ec21a4",
+      "name": "myMPYR-0.2.1-mac.zip",
+      "size": 116263682,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:e7460046b17187b21416ce7aa4cb059adc76a3053337c52fd15f178ace893137",
+      "name": "myMPYR-0.2.1-mac.zip.blockmap",
+      "size": 118964,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:d415acfd0f5483bb4e9e6eff43fd469b52e8685e4ddf5b5bdc77e0c4cbbabd7d",
+      "name": "myMPYR-0.2.1.dmg",
+      "size": 120633785,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:02356e9f0dad3d68455cf1ada84316e4fc04b2fc25ea7e95db78dc7a94e7bfa5",
+      "name": "myMPYR-0.2.1.dmg.blockmap",
+      "size": 126239,
+      "tag": "v0.2.1"
+    },
+    {
+      "digest": "sha256:97f0e6e7496d246f0b905801a2e058f566416f3a98d6a19e6509f364cfd34def",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:c8c50c4bf671a8ba7bb41e50133afd0cbd5bf500bfd141114c3a416b38a38533",
+      "name": "myMPYR-0.2.2-arm64-mac.zip",
+      "size": 108853209,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:f7e24cd961848b132688d8f5d256f27a2fda625d577b9082e9e465ec3280364d",
+      "name": "myMPYR-0.2.2-arm64-mac.zip.blockmap",
+      "size": 111320,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:3eba1ed10b4594ed7e88d23c31cc3d4e98dfefa48d83ee7d347eba91da88f009",
+      "name": "myMPYR-0.2.2-arm64.dmg",
+      "size": 113392573,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:77c58091dfed4bd3ae094feba607cd14b63e57ea1b37b9d6862743702c066b2d",
+      "name": "myMPYR-0.2.2-arm64.dmg.blockmap",
+      "size": 119113,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:b84a194be66f320cfb6329dbcd6d18f774f0110f683f3ae30cd4801520659108",
+      "name": "myMPYR-0.2.2-mac.zip",
+      "size": 116112284,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:c44d7c636c6383276a5fedc2903828063d5408ad309db6d77733220575165d45",
+      "name": "myMPYR-0.2.2-mac.zip.blockmap",
+      "size": 118816,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:2ff10272a022a32796f4154969236d330e795e985792eb76fca19de02e5b9799",
+      "name": "myMPYR-0.2.2.dmg",
+      "size": 120621954,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:a3437cc5b0426a096f6dbdff3a1de22e8c07380ca052ff479ef50e850902a4a6",
+      "name": "myMPYR-0.2.2.dmg.blockmap",
+      "size": 128022,
+      "tag": "v0.2.2"
+    },
+    {
+      "digest": "sha256:a444fa8aa68a79853abd2b84a2799a6a48a9245c095d33e19883bc117bea1246",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:f1bc5dcba0a7f9428f6c939c5f3589d8d06574adfc0e84d54e0472f6d0652f4d",
+      "name": "myMPYR-0.2.3-arm64-mac.zip",
+      "size": 108854279,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:9b0de13bfff48bd92a1c52d0b078da7cc29a8f9b8505bdd5a0f3ba401fe18dc5",
+      "name": "myMPYR-0.2.3-arm64-mac.zip.blockmap",
+      "size": 111619,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:46d72df186f2e380fd7ec977e41820eff430e48f918ed98010c14c8f1e8cf193",
+      "name": "myMPYR-0.2.3-arm64.dmg",
+      "size": 113365899,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:140e52ae0b7bf504494178baed62cfe7ba8ef6d1f5f12445b40f579f328ee5c9",
+      "name": "myMPYR-0.2.3-arm64.dmg.blockmap",
+      "size": 119629,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:43fb1805d399f75860259adeb1466af87443238d624faa31167ba45915a033a4",
+      "name": "myMPYR-0.2.3-mac.zip",
+      "size": 116113308,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:2d5b4d6c9ffff7c7e46b45ea0910a137887100683698efd597f3f753a5bff271",
+      "name": "myMPYR-0.2.3-mac.zip.blockmap",
+      "size": 119047,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:4dc4cd34c239234545b54b461ffa498e504dd5f9869a6accfec1aeb1bab58d5b",
+      "name": "myMPYR-0.2.3.dmg",
+      "size": 120612941,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:c9b67d10a1e35baff01241630002d11c8c1261d0bdda5a90f108a097a14ed58b",
+      "name": "myMPYR-0.2.3.dmg.blockmap",
+      "size": 127468,
+      "tag": "v0.2.3"
+    },
+    {
+      "digest": "sha256:29cf40788f904580c3f1806653ec8024a077c08fbfcf235c5ee8970b9efba0dd",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:d70c3f2f2672aa0ee3dc6c393dd2d272840eadca5baec298bf019cb6032d7802",
+      "name": "myMPYR-0.2.4-arm64-mac.zip",
+      "size": 108854282,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:47f6738fddfabef4cb331c2f427e5b6ec359b0a53727dbeec40ed5cc05bee12b",
+      "name": "myMPYR-0.2.4-arm64-mac.zip.blockmap",
+      "size": 111388,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:02fad4194b80998d4175d39244c7829ba77fdcfa30467cc1a911764e11f8cb93",
+      "name": "myMPYR-0.2.4-arm64.dmg",
+      "size": 113364139,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:1237957868976d7f3e9dca673eb150913527b80f0db662ca6b9da180776c603f",
+      "name": "myMPYR-0.2.4-arm64.dmg.blockmap",
+      "size": 119374,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:24384b1170d8669a93bf813220b3ae435c6b318a45d182127509fb82e62dc1b2",
+      "name": "myMPYR-0.2.4-mac.zip",
+      "size": 116113308,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:a73d73f27c5c2c20e87f2e1e4106b30c0aec601bd397fd5c81856451b6acd907",
+      "name": "myMPYR-0.2.4-mac.zip.blockmap",
+      "size": 118746,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:c3388a8d50c324deffac198c57d6ce67106a76147a5a52b7db3ed4bfa7d50541",
+      "name": "myMPYR-0.2.4.dmg",
+      "size": 120597644,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:cd494151d6138c7029a252c13cea3b9c5a0c689e9d4ffd625c4c44175bd76e81",
+      "name": "myMPYR-0.2.4.dmg.blockmap",
+      "size": 127278,
+      "tag": "v0.2.4"
+    },
+    {
+      "digest": "sha256:3e2f59d974c8447714d97c309eefa922494d49157f3f469a45ee91ca22af264f",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:8cc37cb7dbb9262ca86935290f628e26553ca6459c08916f9044417a3ad7530b",
+      "name": "myMPYR-0.3.0-arm64-mac.zip",
+      "size": 108911880,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:3bd0f13bb7a6f26851ff408fdcd3669d26eb0393214df16c00376ae022762c5b",
+      "name": "myMPYR-0.3.0-arm64-mac.zip.blockmap",
+      "size": 111418,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:033d7eb296a3a326bbcba4b82c94a67d41956def3e3493986c4d5d8ae767223a",
+      "name": "myMPYR-0.3.0-arm64.dmg",
+      "size": 113420732,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:e2910e960bf7e6d78abbbd17552df8db66f6ea16c34edd47cbbef702bdb52f50",
+      "name": "myMPYR-0.3.0-arm64.dmg.blockmap",
+      "size": 118979,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:390c457f084b28f9eb81260f6bb826a8a7c4c7cb657ec3d1c58dbdbf6b9c75eb",
+      "name": "myMPYR-0.3.0-mac.zip",
+      "size": 116170911,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:888e02e209b0f418ab591e66e5259edd34ed27ba71e5acd32f5b7101e7975027",
+      "name": "myMPYR-0.3.0-mac.zip.blockmap",
+      "size": 119255,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:1f57dfe0f5988c1aba9b53d5d89850ac2c5b2680b51e5a0edd139f9a4b454498",
+      "name": "myMPYR-0.3.0.dmg",
+      "size": 120680533,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:79869e024b4b586435e8681d28fb7b7e407bf465184fdb065e37a33e9356acd3",
+      "name": "myMPYR-0.3.0.dmg.blockmap",
+      "size": 127373,
+      "tag": "v0.3.0"
+    },
+    {
+      "digest": "sha256:859b47a7594b87fded25ccf91ec11c1e64185d18d37015414abca0e8badbd569",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:fd33ff8435f1a5cee6a10f8b6c457c3c4a218b3f60da8722eac1f8da364d5ffc",
+      "name": "myMPYR-0.3.1-arm64-mac.zip",
+      "size": 110449945,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:0aca944e48a6be40568b0bfa492d43179e84c6474d8d9eecdcf3acd5994d99d2",
+      "name": "myMPYR-0.3.1-arm64-mac.zip.blockmap",
+      "size": 112798,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:7ce7115a0a0aaec8600fd5fd2180a40a70928e42b3f0dd8e1633fa85bdf44de2",
+      "name": "myMPYR-0.3.1-arm64.dmg",
+      "size": 115026676,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:a74134fe245993232957e43750eb90c2d452776342827639e2f1ba21015d7f42",
+      "name": "myMPYR-0.3.1-arm64.dmg.blockmap",
+      "size": 121433,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:292e6e7105c810e7f90de43b85180f5b2e0e3e044a6e690602ecb2ff8a4e34d1",
+      "name": "myMPYR-0.3.1-mac.zip",
+      "size": 117708957,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:43194ecfa996f23635aed5415a9db59fb9a4cd99b24067a1a31f08e4664d7fed",
+      "name": "myMPYR-0.3.1-mac.zip.blockmap",
+      "size": 120376,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:16a00098c9648796eddcfdf361a92334b3157869200de218e60b4fa5db47061c",
+      "name": "myMPYR-0.3.1.dmg",
+      "size": 122262820,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:e20431e35d9c26a7a78e7441ecb93716eb5ed985d0a255955eb744c32a24537a",
+      "name": "myMPYR-0.3.1.dmg.blockmap",
+      "size": 129267,
+      "tag": "v0.3.1"
+    },
+    {
+      "digest": "sha256:6e25ed43b9036939de08b74e268ec779d0a70309332a5e66936a37425b80214a",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:12b227f225b0431f68cc0c5ccfb24bb8b0a74f027b484af2d53f21437e8a5e8a",
+      "name": "myMPYR-0.3.2-arm64-mac.zip",
+      "size": 110453447,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:d3492e401d0a7bc1dd9de6c523270534d73c9fd45b97402003ad0287f8a12c98",
+      "name": "myMPYR-0.3.2-arm64-mac.zip.blockmap",
+      "size": 112972,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:3a24d481d1206460edb4ddfe40734758bb2124fc8fffb77333a00bba18ed4854",
+      "name": "myMPYR-0.3.2-arm64.dmg",
+      "size": 115030327,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:384540a4d6d57c60d0f5e4f46f90fe6fc1848bb517c6eeb074316329cde01dde",
+      "name": "myMPYR-0.3.2-arm64.dmg.blockmap",
+      "size": 121822,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:478ad0a63a7cb98927664bf16a5f9834c21131ebf1497bbe838e82b72c393f18",
+      "name": "myMPYR-0.3.2-mac.zip",
+      "size": 117712468,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:79ecfd4f793b8cb087fdd2f915af5bcfb9b68bc7916dcbae48ace1c51fe27dd0",
+      "name": "myMPYR-0.3.2-mac.zip.blockmap",
+      "size": 120571,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:3c866b3bea85c159cd4d35dc11438c71a89e534ca344ae1cb100346b7c3cd2ed",
+      "name": "myMPYR-0.3.2.dmg",
+      "size": 122284708,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:b58e4a8f31b4b3fcb353d606f48f15fbcb4db504093c5d0a3a0db847b19a2ea0",
+      "name": "myMPYR-0.3.2.dmg.blockmap",
+      "size": 129377,
+      "tag": "v0.3.2"
+    },
+    {
+      "digest": "sha256:591211f4fe3e7e4f9bb2feadbe16e39c06478a07538780d76e97d14db28c7116",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:b34da92f1f96a63946036f5d78bb7f838ce8247cf688f5c5e55f372b206983db",
+      "name": "myMPYR-0.3.3-arm64-mac.zip",
+      "size": 110460256,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:c2185a2de385f184ee3c875634d8551dff25a2109a85800fd30d37768a11e7a4",
+      "name": "myMPYR-0.3.3-arm64-mac.zip.blockmap",
+      "size": 112606,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:6a83fc532ccca8e58a5cd00521ded526d9562ba7208c4c9667cf3d75f6009a56",
+      "name": "myMPYR-0.3.3-arm64.dmg",
+      "size": 115036820,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:b26b618b5e5bc03c60a19130182c5d199e413b852ee93917cdf92cb0ffd481ea",
+      "name": "myMPYR-0.3.3-arm64.dmg.blockmap",
+      "size": 121622,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:62d4cd601c067cb92ca99ec4834e750c5034e2035e371ae82bf790728cb74912",
+      "name": "myMPYR-0.3.3-mac.zip",
+      "size": 117719299,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:b12a080c7210e7b46a5a749051147962ebeb38665147bf9fcd433bd7fee5b1a1",
+      "name": "myMPYR-0.3.3-mac.zip.blockmap",
+      "size": 120340,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:365690cfcadc4c2510a5d402ced9e4fd9d81dd711a953ed5307bd676209f7795",
+      "name": "myMPYR-0.3.3.dmg",
+      "size": 122271500,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:92dff38155a49d6ab1c859036cb961156b8d094f18d080ce1870e4cadc112087",
+      "name": "myMPYR-0.3.3.dmg.blockmap",
+      "size": 131318,
+      "tag": "v0.3.3"
+    },
+    {
+      "digest": "sha256:064e7c7c268b57bef62e7206b123589cd1693682d9259b8ce8e6b0a5a6485dea",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:7b580d9130fbfc5a58d48e8175c2970da28c914e10227fc939cfae433147dbe2",
+      "name": "myMPYR-0.3.4-arm64-mac.zip",
+      "size": 110468737,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:9e6bf7b861c413639babdf4a472dac4f7bced824b462201b2fedcda5950cb0a8",
+      "name": "myMPYR-0.3.4-arm64-mac.zip.blockmap",
+      "size": 112834,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:fac11ca7e1439a1838de7cece4d37710a33246b4a559cfe8933ee1666c8d3217",
+      "name": "myMPYR-0.3.4-arm64.dmg",
+      "size": 115044741,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:57e806556c528e400d22087d15dd19ef3b74b9d7ecdecbc0aa9bf0c9993e5fbe",
+      "name": "myMPYR-0.3.4-arm64.dmg.blockmap",
+      "size": 121338,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:161fa3b827b17f595676a56a399f17e0171f2e08872ada8b422da65507ce9e54",
+      "name": "myMPYR-0.3.4-mac.zip",
+      "size": 117727786,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:1121e9f1d46db0aca77a0e2509fe00fa6429e54ef8f4fbfbf5a08bd12783b24a",
+      "name": "myMPYR-0.3.4-mac.zip.blockmap",
+      "size": 120379,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:b1cc234b8ecbb8c5e7a77f45f1940260f1969f1fbdba4b317e56c7f8b31dbcaa",
+      "name": "myMPYR-0.3.4.dmg",
+      "size": 122292441,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:9fab024044d27ea4e51d2c02e5c6591ca591ce73d81201f1c7061b280e3d7c17",
+      "name": "myMPYR-0.3.4.dmg.blockmap",
+      "size": 128467,
+      "tag": "v0.3.4"
+    },
+    {
+      "digest": "sha256:74a66292cf2d517c739b9fe578a1dbe00fa602fa6ea48c47698869b549b9d9e8",
+      "name": "latest-mac.yml",
+      "size": 800,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:37b96446ad618f9b2d005d167c1856c031467ea4c31cea21280c6039f1c86996",
+      "name": "myMPYR-0.3.5-arm64-mac.zip",
+      "size": 198071577,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:e6f75957c3bad71a7ea0443e1dac88ccc93659bb9641480dc6fda80dda2b2e2d",
+      "name": "myMPYR-0.3.5-arm64-mac.zip.blockmap",
+      "size": 203766,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:69eec1af837d440e214721de2801a032d06d33bfd36bfeae3d6953f541bdf0bf",
+      "name": "myMPYR-0.3.5-arm64.dmg",
+      "size": 204792611,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:04019060b4117bc9cfd2f0a03dd3b2b26702fa86b0d3fda6f1f75ab972ca2397",
+      "name": "myMPYR-0.3.5-arm64.dmg.blockmap",
+      "size": 213458,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:f62cff7273be59931e2b814cc3e918686fcecc344991a2c0c759a7810beb96b6",
+      "name": "myMPYR-0.3.5-mac.zip",
+      "size": 205432267,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:d45160e1fa5a0e362dce21cdc55f2ab999eed30d3e4af8fdf4339e3e7bc7325a",
+      "name": "myMPYR-0.3.5-mac.zip.blockmap",
+      "size": 211330,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:416004d15cfcb250f9d39d4df6f4d07138e44bf56abcfdfebb3c0f5aa78f4d45",
+      "name": "myMPYR-0.3.5.dmg",
+      "size": 212103555,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:08b1449afb0b78345fc37da41b356eddbf251fc98aef6ec59691e13d82b79fe2",
+      "name": "myMPYR-0.3.5.dmg.blockmap",
+      "size": 223051,
+      "tag": "v0.3.5"
+    },
+    {
+      "digest": "sha256:5fe59fee6a5bd0abde8701f7d83af60f3f66a1ed147a1b7ddbf98a7b5c2ba50b",
+      "name": "MPYR-0.3.6-arm64-mac.zip",
+      "size": 198168857,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:0cec86b184031702ccf2d3e31dcd496def2d14159d5913f6ebb5f5cde457ec9b",
+      "name": "MPYR-0.3.6-arm64-mac.zip.blockmap",
+      "size": 204494,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:180d2b06c15670ae039ea181b9a76e2879107ad4c12493fe2bb194e0e4ff04b5",
+      "name": "MPYR-0.3.6-arm64.dmg",
+      "size": 204900601,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:ae04780e10c2231a8273e4e9d313e1ac01fde5ff0a60d93d689332d3278d21bb",
+      "name": "MPYR-0.3.6-arm64.dmg.blockmap",
+      "size": 214494,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:cd789ef1b9501b2b7b33e25a7863d5ed172cc6dd8192ca3fd5c37999a456e205",
+      "name": "MPYR-0.3.6-mac.zip",
+      "size": 205427907,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:44b6a34a22e539bac108b8156ff01624ad79612159ec2e3e7091e7f5d7b9ab7c",
+      "name": "MPYR-0.3.6-mac.zip.blockmap",
+      "size": 211626,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:53cb107a364ecbef6e6ae8d2ce6805ae6ffb4adee5cd7439fb8e57912e7477cb",
+      "name": "MPYR-0.3.6.dmg",
+      "size": 212104348,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:516792e10bb5c3678833c9815c966f1c76ff314553d94afcb2872bb7a8b96dc9",
+      "name": "MPYR-0.3.6.dmg.blockmap",
+      "size": 223799,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:e9d21bfb33ba081a9394b1dbd148db38fe9bd6a19029072b264bf12cd269b40d",
+      "name": "latest-mac.yml",
+      "size": 790,
+      "tag": "v0.3.6"
+    },
+    {
+      "digest": "sha256:a54520839e386b3c5e6718676f1c19c1339a39b6b4800dd181e44c8e50c7a1d9",
+      "name": "MPYR-0.3.7-arm64-mac.zip",
+      "size": 198170602,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:a5a7663ffaeac65431d0626a39e6bb9673328cd5d6a91de24bf7023c1132d95b",
+      "name": "MPYR-0.3.7-arm64-mac.zip.blockmap",
+      "size": 204559,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:915c8c15238b767fd93de9d67552ea3b581b572afe40324ffdda092ed85f60b0",
+      "name": "MPYR-0.3.7-arm64.dmg",
+      "size": 204895692,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:c5b1817e154498079a7a2bbcfe4fa7c5a96904a137f6567a0bca6b28e56206da",
+      "name": "MPYR-0.3.7-arm64.dmg.blockmap",
+      "size": 216735,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:8c63cd598ca71ae5ad80980a6c57bf99c4e07067f0dd600d751c0de06901a1e4",
+      "name": "MPYR-0.3.7-mac.zip",
+      "size": 205429587,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:c8af598a1d528b9ab6a9af23c55ed9293de8f50cfe63e374601b0bdf75e113ff",
+      "name": "MPYR-0.3.7-mac.zip.blockmap",
+      "size": 211697,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:2bb1b755611f28daa06d813938638a8f365b878322c4c3857d4723b456529274",
+      "name": "MPYR-0.3.7.dmg",
+      "size": 212111046,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:91deb71b33bd0065b4ed7026d7371a74f716a024d657dead0523afcc309ae3bb",
+      "name": "MPYR-0.3.7.dmg.blockmap",
+      "size": 221805,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:2196c5f45306d57a39fc441ff5885afdc6944c2b39a5c90edb6eec9568ececeb",
+      "name": "latest-mac.yml",
+      "size": 790,
+      "tag": "v0.3.7"
+    },
+    {
+      "digest": "sha256:5503375ae3c2131f8a7dfe7d40667772dbc8c89e4f316a0b49ebf687ed70b9a1",
+      "name": "MPYR-0.3.8-arm64-mac.zip",
+      "size": 198174492,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:75eb5aafcdd2d11025fedc792c5965a5da8bdeb9a99c2264906bf991715f3d28",
+      "name": "MPYR-0.3.8-arm64-mac.zip.blockmap",
+      "size": 204573,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:8594b7211191c8708ac80e54644a2e51adeb9f9db9f7b394124a5fa79f7ca3ed",
+      "name": "MPYR-0.3.8-arm64.dmg",
+      "size": 204903213,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:ab33ab4e8ea6d176b8c2bae280596c79131446085a771bb2c3ce43fb3f038e51",
+      "name": "MPYR-0.3.8-arm64.dmg.blockmap",
+      "size": 214342,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:ec039d0797e492d8fc6ff4debeb8cfd029877582203a74f0e1ff777e19c284a7",
+      "name": "MPYR-0.3.8-mac.zip",
+      "size": 205433562,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:6861e573ca4253d6de554d6971c8bb2a63529b81d433a2789da05f2decc27801",
+      "name": "MPYR-0.3.8-mac.zip.blockmap",
+      "size": 211773,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:b0e7b27d5db9c3e2409bdb8de38209a8696c060c4940d6a83316e397b8e43715",
+      "name": "MPYR-0.3.8.dmg",
+      "size": 212114035,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:49aa4e855d4f5605731c7b0b07a45b1d3b818ded21531ca3ed2d5482c9159907",
+      "name": "MPYR-0.3.8.dmg.blockmap",
+      "size": 223399,
+      "tag": "v0.3.8"
+    },
+    {
+      "digest": "sha256:f7872d5e9c44e0ce71b7d08efedf76a25fa8e082263412059aea6ecf899cee55",
+      "name": "latest-mac.yml",
+      "size": 790,
+      "tag": "v0.3.8"
+    }
+  ]
+}
